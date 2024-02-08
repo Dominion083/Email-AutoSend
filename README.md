@@ -7,7 +7,7 @@ Email-AutoSend is a Python program designed to streamline the process of sending
 - Read recipient email addresses from a CSV or text file.
 - Customizable email structure, allowing users to provide their own message template.
 - Support for sending emails through SMTP (Simple Mail Transfer Protocol).
-- Easy-to-use command-line interface.
+- Easy-to-use GUI interface.
 
 ## Installation
 1. Clone this repository to your local machine:
